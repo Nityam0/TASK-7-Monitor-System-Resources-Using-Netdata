@@ -1,4 +1,4 @@
-# TASK-7-Monitor-System-Resources-Using-Netdata
+
 
 # TASK 7 - Monitor System Resources Using Netdata
 
